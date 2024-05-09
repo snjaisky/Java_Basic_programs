@@ -24,7 +24,7 @@ public class ReverseString {
 	}
 
 	public static void main(String[] args) {
-		//reverse(" I am an software tester");
+		reverse(" I am an software tester");
 		
 		
 		
